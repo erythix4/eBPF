@@ -1,6 +1,6 @@
 # Formation eBPF
 
- technique sur eBPF (extended Berkeley Packet Filter) couvrant l'observabilité système, la sécurité runtime et le développement bas niveau sous Linux.
+ formation technique sur eBPF (extended Berkeley Packet Filter) couvrant l'observabilité système, la sécurité runtime et le développement bas niveau sous Linux.
 
 ---
 
